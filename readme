@@ -1,0 +1,27 @@
+/**
+ * Cara Menjalankan:
+ * 1. Pastikan Anda memiliki lingkungan pemrograman yang sesuai (misalnya, Node.js jika ini adalah kode JavaScript).
+ * 2. Salin kode ke dalam file dengan ekstensi yang sesuai (misalnya, `script.js` untuk JavaScript).
+ * 3. Buka terminal atau command prompt.
+ * 4. Navigasikan ke direktori tempat file tersebut disimpan.
+ * 5. Jalankan perintah yang sesuai untuk menjalankan file tersebut (misalnya, `node script.js` untuk JavaScript).
+ * 
+ * Jika Anda mengalami kesulitan, pastikan semua dependensi atau pustaka yang diperlukan telah diinstal.
+
+Tentu! Berikut contoh kata-kata pengantar yang bisa kamu gunakan untuk file `README.md`:
+
+---
+
+## 📌 Pengantar
+
+Selamat datang di proyek ini!  
+Proyek ini dibuat dengan penuh semangat oleh **GrowjoyCode** untuk membantu komunitas developer dan penggemar Growtopia Planner atau project kreatif lainnya.
+
+Jangan ragu untuk menjelajah, mengembangkan, atau bahkan menginspirasi dari karya ini.  
+Jika kamu ingin tahu lebih banyak atau sekadar say hello, kamu bisa temui saya di Instagram:
+
+📷 **[Instagram @GrowjoyCode](https://instagram.com/GrowjoyCode)**
+
+---
+
+Kalau kamu ingin versi yang lebih formal atau lebih santai juga bisa, tinggal bilang aja!
