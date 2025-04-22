@@ -10,7 +10,7 @@ Proyek ini dibuat dengan penuh semangat oleh **GrowjoyCode** untuk membantu komu
 Jangan ragu untuk menjelajah, mengembangkan, atau bahkan menginspirasi dari karya ini.  
 Jika kamu ingin tahu lebih banyak atau sekadar say hello, kamu bisa temui saya di Instagram:
 
-📷 **[Instagram @GrowjoyCode](https://instagram.com/GrowjoyCode)**
+📷 **[Instagram @GrowjoyCode](https://instagram.com/lf_lathif)**
 
 ---
 
