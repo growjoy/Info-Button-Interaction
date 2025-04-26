@@ -1,11 +1,11 @@
-Tentu! Berikut contoh kata-kata pengantar yang bisa kamu gunakan untuk file `README.md`:
+`README.md`:
 
 ---
 
 📌 Pengantar
 
 Selamat datang di proyek ini!  
-Proyek ini dibuat dengan penuh semangat oleh **GrowjoyCode** untuk membantu komunitas developer dan penggemar Growtopia Planner atau project kreatif lainnya.
+Proyek ini dibuat dengan penuh semangat oleh **Growjoy** untuk membantu komunitas developer dan penggemar Growtopia Planner atau project kreatif lainnya.
 
 Jangan ragu untuk menjelajah, mengembangkan, atau bahkan menginspirasi dari karya ini.  
 Jika kamu ingin tahu lebih banyak atau sekadar say hello, kamu bisa temui saya di Instagram:
